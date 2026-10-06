@@ -9,16 +9,39 @@ body{
     font-size: 14px;
     color: var(--White);
     background-color: var(--Grey900);
+    min-height: 100vh;
+    margin: 0;
+}
+main{
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    max-width: 100%;
+    width: 100px;
+}
+
+.container header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .social-links{
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
-.social-links li a:visited {
+.social-links li a:visited, .social-links li a:link {
     text-decoration-line: none;
     color: var(--White);
 }
