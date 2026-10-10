@@ -59,4 +59,4 @@ As always, i used copilot to understand why some things work the way they are, l
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Danedey](https://www.frontendmentor.io/profile/yourusername)
