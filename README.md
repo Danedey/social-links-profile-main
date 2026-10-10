@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Danedey/social-links-profile-main](https://your-solution-url.com)
-- Live Site URL: [https://danedey.github.io/social-links-profile-main/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Danedey/social-links-profile-main](https://github.com/Danedey/social-links-profile-main)
+- Live Site URL: [https://danedey.github.io/social-links-profile-main/](https://danedey.github.io/social-links-profile-main/)
 
 ## My process
 
